@@ -1,0 +1,5 @@
+C:\Users\rsmfr\source\repos\SqlDevOps\SqlDevOps\bin\Debug\SqlDevOps.dacpac
+C:\Users\rsmfr\source\repos\SqlDevOps\SqlDevOps\bin\Debug\SqlDevOps.dll
+C:\Users\rsmfr\source\repos\SqlDevOps\SqlDevOps\bin\Debug\SqlDevOps.pdb
+C:\Users\rsmfr\source\repos\SqlDevOps\SqlDevOps\obj\Debug\SqlDevOps.dll
+C:\Users\rsmfr\source\repos\SqlDevOps\SqlDevOps\obj\Debug\SqlDevOps.pdb
